@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/AishuCR/Mongo-Scraper/issues"
   },
-  "homepage": "https://github.com/AishuCR/Mongo-Scraper#readme"
+  "homepage": "https://github.com/AishuCR/Mongo-Scraper#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.2.14",
+    "morgan": "^1.9.1",
+    "npm": "^6.4.1",
+    "request": "^2.88.0"
+  }
 }
